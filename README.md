@@ -14,3 +14,7 @@ describe situations that could be potentially solved.
 Let's link below some articles or websites that describe situations,
 and by the end of the first day we will use them for the design
 thinking session. You can link as many as you want. 
+
+# Articles to consider
+
+* [Spain eliminated from the World Cup by Russia](https://www.theguardian.com/football/2018/jul/01/spain-russia-world-cup-last-16-match-report)
